@@ -11,8 +11,6 @@ Hello! I am Bhavishya Lakra. I have intermediate knowledge of Python and I am cu
 - Build 5+ good projects
 - Learn Git and GitHub properly
 
-## Projects
-*(I will add my projects here one by one)*
 
 ### 1. Coming Soon...
 
@@ -22,8 +20,8 @@ Hello! I am Bhavishya Lakra. I have intermediate knowledge of Python and I am cu
 - Currently Learning: Flask, Pandas, SQL
 
 ## How to Connect
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: (Add later)
+- GitHub: [@bhavishyalakra](https://github.com/bhavishyalakra)
+- LinkedIn: www.linkedin.com/in/bhavishya-lakra-326130284
 
 ---
 
